@@ -8,7 +8,7 @@
       <item>
         <title>Application 1.2.0</title>
         <pubDate>Thu, 15 Jul 2021 16:58:18 +02:00</pubDate>
-        <enclosure url="https://github-releases.githubusercontent.com/467582/0bdc0a80-a8ad-11ea-8e60-00d1e6ab992c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210716T132546Z&X-Amz-Expires=300&X-Amz-Signature=43ca8433017d29e9505e0a9c2899bafa6e6ad6cf0848bdef1b1a0415a70a7c97&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=467582&response-content-disposition=attachment%3B%20filename%3DWinSparkle-0.7.0.zip&response-content-type=application%2Foctet-stream" sparkle:version="1.8.0" sparkle:shortVersionString="1.8" length="174592" sparkle:os="windows" type="application/octet-stream" />
+        <enclosure url="https://aures-support.com/DATA/Peripheral/VFD/YUNO_VFD_Setup_v1.0n.zip" sparkle:version="1.8.0" sparkle:shortVersionString="1.8" length="174592" sparkle:os="windows" type="application/octet-stream" />
       </item>
     </channel>
   </rss>
