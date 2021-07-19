@@ -8,7 +8,7 @@
       <item>
         <title>Application 1.2.0</title>
         <pubDate>Thu, 15 Jul 2021 16:58:18 +02:00</pubDate>
-        <enclosure url="https://aures-support.com/DATA/Peripheral/VFD/YUNO_VFD_Setup_v1.0n.zip" sparkle:version="1.8.0" sparkle:shortVersionString="1.8" length="174592" sparkle:os="windows" type="application/octet-stream" />
+        <enclosure url="https://files.slack.com/files-pri/T1UQ74LRL-F028G266726/download/tb-oms.exe" sparkle:version="1.8.3" sparkle:shortVersionString="1.8" length="174592" sparkle:os="windows" type="application/octet-stream" />
       </item>
     </channel>
   </rss>
